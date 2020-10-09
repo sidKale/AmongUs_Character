@@ -1,5 +1,5 @@
-# amongUs
+# AmongUs
 
 created using Turtle
 
-Output available in code section
+Output available in the code section
